@@ -1,0 +1,10 @@
+CONFIGURATION SIMPLE
+
+- Site web : http://127.0.0.1:50006
+- Serveur de jeu : http://127.0.0.1:50007
+- Cloudflare Tunnel : play.lavignere.eu -> http://127.0.0.1:50006
+
+Lancement : double-clique sur start.bat
+Arret : double-clique sur stop.bat
+
+Ne lance pas bun run dev, next start, start-cloudflare.bat, ni les anciens scripts.
